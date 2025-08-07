@@ -1,0 +1,39 @@
+date,h_a,team_h,team_a,goals_for,goals_against,xG_for,xG_against,xGA,result
+2024-08-17,h,Arsenal,Wolves,2,0,1.6,0.6,0.6,w
+2024-08-24,a,Villa,Arsenal,2,0,1.4,1.3,1.3,w
+2024-08-31,h,Arsenal,Brighton,1,1,2.4,1.8,1.8,d
+2024-09-15,a,Spurs,Arsenal,1,0,1.1,0.8,0.8,w
+2024-09-22,a,Man City,Arsenal,2,2,1.3,2.8,2.8,d
+2024-09-28,h,Arsenal,Leicester,4,2,6.1,0.3,0.3,w
+2024-10-05,h,Arsenal,Southampton,3,1,3.3,1.3,1.3,w
+2024-10-19,a,Bournemouth,Arsenal,0,2,0.7,2.2,2.2,l
+2024-10-27,h,Arsenal,Liverpool,2,2,1.1,1.4,1.4,d
+2024-11-02,a,Newcastle,Arsenal,0,1,0.9,0.9,0.9,l
+2024-11-10,a,Chelsea,Arsenal,1,1,2.0,1.2,1.2,d
+2024-11-23,h,Arsenal,Forest,3,0,1.7,0.4,0.4,w
+2024-11-30,a,West Ham,Arsenal,5,2,4.0,1.2,1.2,w
+2024-12-04,h,Arsenal,Man United,2,0,3.0,0.3,0.3,w
+2024-12-08,a,Fulham,Arsenal,1,1,2.4,0.2,0.2,d
+2024-12-14,h,Arsenal,Everton,0,0,1.3,0.1,0.1,d
+2024-12-21,a,Palace,Arsenal,5,1,3.1,1.6,1.6,w
+2024-12-27,h,Arsenal,Ipswich,1,0,2.2,0.1,0.1,w
+2025-01-01,a,Brentford,Arsenal,3,1,2.0,0.3,0.3,w
+2025-01-04,a,Brighton,Arsenal,1,1,1.8,1.8,1.8,d
+2025-01-15,h,Arsenal,Spurs,2,1,2.3,0.8,0.8,w
+2025-01-18,h,Arsenal,Villa,2,2,1.6,1.2,1.2,d
+2025-01-25,a,Wolves,Arsenal,1,0,0.9,0.5,0.5,w
+2025-02-02,h,Arsenal,Man City,5,1,1.5,0.7,0.7,w
+2025-02-15,a,Leicester,Arsenal,2,0,1.8,0.2,0.2,w
+2025-02-22,h,Arsenal,West Ham,0,1,1.4,1.0,1.0,l
+2025-02-26,a,Forest,Arsenal,0,0,1.3,0.5,0.5,d
+2025-03-09,a,Man United,Arsenal,1,1,1.8,1.3,1.3,d
+2025-03-16,h,Arsenal,Chelsea,1,0,0.7,0.3,0.3,w
+2025-04-01,h,Arsenal,Fulham,2,1,2.3,1.4,1.4,w
+2025-04-05,a,Everton,Arsenal,1,1,1.4,1.2,1.2,d
+2025-04-12,h,Arsenal,Brentford,1,1,0.8,0.6,0.6,d
+2025-04-20,a,Ipswich,Arsenal,4,0,2.8,0.2,0.2,w
+2025-04-23,h,Arsenal,Palace,2,2,1.9,2.5,2.5,d
+2025-05-03,h,Arsenal,Bournemouth,1,2,2.1,1.4,1.4,l
+2025-05-11,a,Liverpool,Arsenal,2,2,2.2,2.7,2.7,d
+2025-05-18,h,Arsenal,Newcastle,1,0,1.2,2.2,2.2,w
+2025-05-25,a,Southampton,Arsenal,2,1,2.4,0.6,0.6,w

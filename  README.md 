@@ -1,0 +1,29 @@
+# Arsenal Match Stats Dashboard 🏟️
+
+This project analyzes Arsenal's 2023/24 Premier League performance using match data from Understat. It visualizes key metrics such as expected goals (xG), goals scored, and overperformance trends. You can also generate match summaries using a local LLM like Mistral via Ollama.
+
+## Features
+
+- 🔎 Fetch real Arsenal match data
+- 📊 Visualize xG vs Goals using Matplotlib/Streamlit
+- 🧠 (Optional) Generate match summaries with LLMs like Mistral
+
+## Tools Used
+
+- Python (Pandas, Matplotlib)
+- Streamlit (for dashboard UI)
+- Understat API
+- Ollama + Mistral (LLM)
+
+## Screenshots
+
+*(Add image here later)*
+
+## How to Run
+
+```bash
+git clone https://github.com/yourname/arsenal_match_dashboard.git
+cd arsenal_match_dashboard
+pip install -r requirements.txt
+python src/fetch_data.py
+streamlit run dashboard.py

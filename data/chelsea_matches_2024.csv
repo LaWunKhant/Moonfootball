@@ -1,0 +1,39 @@
+date,h_a,team_h,team_a,goals_for,goals_against,xG_for,xG_against,xGA,result
+2024-08-18,h,Chelsea,Man City,0,2,1.1,1.2,1.2,l
+2024-08-25,a,Wolves,Chelsea,6,2,2.0,2.4,2.4,w
+2024-09-01,h,Chelsea,Palace,1,1,3.0,0.5,0.5,d
+2024-09-14,a,Bournemouth,Chelsea,1,0,0.9,1.5,1.5,w
+2024-09-21,a,West Ham,Chelsea,3,0,2.4,0.8,0.8,w
+2024-09-28,h,Chelsea,Brighton,4,2,3.7,1.2,1.2,w
+2024-10-06,h,Chelsea,Forest,1,1,2.3,1.7,1.7,d
+2024-10-20,a,Liverpool,Chelsea,1,2,1.3,2.2,2.2,l
+2024-10-27,h,Chelsea,Newcastle,2,1,1.6,1.7,1.7,w
+2024-11-03,a,Man United,Chelsea,1,1,1.2,2.2,2.2,d
+2024-11-10,h,Chelsea,Arsenal,1,1,1.2,2.0,2.0,d
+2024-11-23,a,Leicester,Chelsea,2,1,2.8,1.0,1.0,w
+2024-12-01,h,Chelsea,Villa,3,0,1.9,0.9,0.9,w
+2024-12-04,a,Southampton,Chelsea,5,1,5.8,1.9,1.9,w
+2024-12-08,a,Spurs,Chelsea,4,3,2.6,3.3,3.3,w
+2024-12-15,h,Chelsea,Brentford,2,1,2.6,1.7,1.7,w
+2024-12-22,a,Everton,Chelsea,0,0,1.5,1.1,1.1,d
+2024-12-26,h,Chelsea,Fulham,1,2,1.6,1.8,1.8,l
+2024-12-30,a,Ipswich,Chelsea,0,2,1.6,1.5,1.5,l
+2025-01-04,a,Palace,Chelsea,1,1,1.5,1.3,1.3,d
+2025-01-14,h,Chelsea,Bournemouth,2,2,2.5,1.1,1.1,d
+2025-01-20,h,Chelsea,Wolves,3,1,3.1,1.1,1.1,w
+2025-01-25,a,Man City,Chelsea,1,3,1.5,2.2,2.2,l
+2025-02-03,h,Chelsea,West Ham,2,1,1.4,1.2,1.2,w
+2025-02-14,a,Brighton,Chelsea,0,3,0.6,2.1,2.1,l
+2025-02-22,a,Villa,Chelsea,1,2,2.2,2.7,2.7,l
+2025-02-25,h,Chelsea,Southampton,4,0,3.0,0.8,0.8,w
+2025-03-09,h,Chelsea,Leicester,1,0,1.8,0.1,0.1,w
+2025-03-16,a,Arsenal,Chelsea,0,1,0.3,0.7,0.7,l
+2025-04-03,h,Chelsea,Spurs,1,0,1.3,1.4,1.4,w
+2025-04-06,a,Brentford,Chelsea,0,0,1.5,1.4,1.4,d
+2025-04-13,h,Chelsea,Ipswich,2,2,2.9,1.6,1.6,d
+2025-04-20,a,Fulham,Chelsea,2,1,0.8,0.3,0.3,w
+2025-04-26,h,Chelsea,Everton,1,0,0.8,0.9,0.9,w
+2025-05-04,h,Chelsea,Liverpool,3,1,3.5,1.4,1.4,w
+2025-05-11,a,Newcastle,Chelsea,0,2,0.6,1.7,1.7,l
+2025-05-16,h,Chelsea,Man United,1,0,1.3,0.3,0.3,w
+2025-05-25,a,Forest,Chelsea,1,0,1.3,1.6,1.6,w
