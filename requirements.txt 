@@ -25,3 +25,5 @@ requests>=2.31.0
 # Utility
 python-dateutil>=2.8.0
 pytz>=2023.3
+
+Streamlit
